@@ -8,7 +8,8 @@
         },
         "ghcr.io/devcontainers/features/powershell:1.1.0": {},
         "ghcr.io/devcontainers/features/azure-cli:1.0.8": {},
-        "ghcr.io/azure/azure-dev/azd:latest": {}
+        "ghcr.io/azure/azure-dev/azd:latest": {},
+        "sshd": "latest"
     },
     "customizations": {
         "vscode": {
